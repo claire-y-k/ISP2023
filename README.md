@@ -87,13 +87,13 @@ TODO
 
 ### Improvements
 
-TODO
+Currently, the face recognition model implemented in this project is only able to recognize faces that are directly facing the camera. A signicifcant improvement to this project would be having the ability to detect side profiles. Additionally, there is only one option to cover a person's face. It is with a smiling emoji. This may be unfortunate to those who may wish to depict other emotions.
 
 
 
 ### Limitations
 
-Currently, there is only one option to cover a person's face. It is with a smiling emoji. This may be unfortunate to those who may wish to depict other emotions. Additionally, the face recognition model implemented is limited in that it is not easily able to detect side profiles. 
+The camera utilized in this project is not able to capture real-time movement accurately. It takes a bit of time for the camera to process what it captures. The camera is also fixated at a specific height, so external adjustments had to be made to correctly capture people's faces. 
 
 
 
