@@ -71,11 +71,13 @@ Intuitive user interface allows the user to manually select the main person whos
 
 ## Results
 
-TODO
+This project is able to identify major facial features (such as the eyes, nose and mouth), and has the ability to utilize an identification system to track differing faces concurrently. It also gives the user the option to cover a person's face with an emoji if they desire by simply clicking on the face. 
 
 
 
 ## Discussion
+
+It was intriguing to witness how the program was able to identify a person's face then later have the ability to recognize and track it. 
 
 ### Challenges
 
@@ -91,7 +93,7 @@ TODO
 
 ### Limitations
 
-TODO
+Currently, there is only one option to cover a person's face. It is with a smiling emoji. This may be unfortunate to those who may wish to depict other emotions. Additionally, the face recognition model implemented is limited in that it is not easily able to detect side profiles. 
 
 
 
