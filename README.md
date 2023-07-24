@@ -71,7 +71,7 @@ Intuitive user interface allows the user to manually select the main person whos
 
 ## Results
 
-This project is able to identify major facial features (such as the eyes, nose and mouth), and has the ability to utilize an identification system to track differing faces concurrently. It also gives the user the option to cover a person's face with an emoji if they desire by simply clicking on the face. 
+This project is able to identify major facial features (such as the eyes, nose and mouth), and has the ability to utilize an identification system to track different faces concurrently. It also gives the user the option to cover a person's face with an emoji if they desire by simply clicking on the face. 
 
 
 
