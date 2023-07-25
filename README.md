@@ -17,7 +17,7 @@ TODO
 
 ## Introduction
 
-TODO
+Due to the increasing reliance and advancement of technology, there is no doubt that the usage of technology has significantly increased. It is plugged into every aspect of life. There are times where individuals are recorded for security reasons, such as at the airport for indentification or CCTV. Other times individuals are recorded, with or without consent, for entertainment -- one prime example being youtube videos. This project looks at one possibility of approaching this issue. 
 
 
 
